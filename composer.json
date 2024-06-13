@@ -1,0 +1,14 @@
+{
+    "name": "osama/signim",
+    "autoload": {
+        "psr-4": {
+            "src\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oussama amha"
+        }
+    ],
+    "require": {}
+}
